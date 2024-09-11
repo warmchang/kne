@@ -6,7 +6,7 @@ require (
 	cloud.google.com/go/pubsub v1.36.1
 	github.com/aristanetworks/arista-ceoslab-operator/v2 v2.1.2
 	github.com/blang/semver v3.5.1+incompatible
-	github.com/docker/docker v26.1.4+incompatible
+	github.com/docker/docker v26.1.5+incompatible
 	github.com/drivenets/cdnos-controller v1.7.4
 	github.com/ghodss/yaml v1.0.0
 	github.com/golang/glog v1.2.0
@@ -34,7 +34,7 @@ require (
 	golang.org/x/oauth2 v0.18.0
 	golang.org/x/sync v0.7.0
 	google.golang.org/api v0.169.0
-	google.golang.org/grpc v1.64.0
+	google.golang.org/grpc v1.64.1
 	google.golang.org/protobuf v1.34.2
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.26.3
